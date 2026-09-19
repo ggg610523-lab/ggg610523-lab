@@ -2,7 +2,7 @@
 
 I work mostly with C/C++, graphics, UI development, OpenGL, SDL, and systems programming, while also exploring AI, operating systems, and web development.
 
-I enjoy experimenting, making my own tools, and understanding how software works beneath the surface. Most of my projects are driven by curiosity — whether that's building a UI framework, experimenting with graphics, creating OS-related software, or developing AI-powered tools.
+I enjoy experimenting, making my own tools, and understanding how software works beneath the surface. Most of my projects are driven by curiosity  whether it's building an UI framework, experimenting with graphics, creating OS-related software, or developing tools.
 
 Currently building, learning, and breaking things to understand them better.
 
