@@ -1,4 +1,4 @@
-##Hi , I am Gautam v.s
+## Hi , I am Gautam v.s
 
 I work mostly with C/C++, graphics, UI development, OpenGL, SDL, and systems programming, while also exploring AI, operating systems, and web development.
 
